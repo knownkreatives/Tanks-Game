@@ -10,6 +10,7 @@ it's kind of laggy but still playable just remember to lower your volume before 
 1.  WASD keys to move.
   
 2.  Space key to shoot.
+
 . Player 2 (Red):
  
 1.  Arrow keys to move.
