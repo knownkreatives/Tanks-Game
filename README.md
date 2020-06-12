@@ -6,17 +6,17 @@ it's kind of laggy but still playable just remember to lower your volume before 
 
 <div><h1>Controls:<h1>
 
- <h3>Player 1 (Blue):
+. <h3>Player 1 (Blue):
  
-  WASD keys to move.
+1.  WASD keys to move.
   
-  Space key to shoot.
+2.  Space key to shoot.
 
- Player 2 (Red):
+. Player 2 (Red):
  
-  Arrow keys to move.
+1.  Arrow keys to move.
   
-  Enter/Return key to shoot.</h3>
+2.  Enter/Return key to shoot.</h3>
   <div>
   
 <h2>The versions 1.0, 2.0 and 2.5 are in the orthographic view.</h2>
