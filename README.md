@@ -1,11 +1,11 @@
 <h1>Tanks The Game</h1>
-
-<h2>this is a perspective two player game for people on the same PC, no other object is intractable except the players but all are collidable.
-
-it's kind of laggy but still playable just remember to lower your volume before you melt your ears.</h2>
+<hr>
+<h2>this is a perspective two player game for people on the same PC, no other object is intractable except the players but all are collidable.<break>
+ 
+It's kind of laggy but still playable just remember to lower your volume before you melt your ears.</h2>
 
 <div><h1>Controls:<h1>
- <h3>.Player 1 (Blue):
+<h3>. Player 1 (Blue):
  
 1.  WASD keys to move.
   
@@ -17,7 +17,16 @@ it's kind of laggy but still playable just remember to lower your volume before 
   
 2.  Enter/Return key to shoot.</h3>
   <div>
-  
+
+<p>
+ This game was recreated from a tutorial on <a href="https://learn.unity.com/">unity learn</a> and assets on the <a href="https://store.unity3d.com">unity store</a> for free,
+ it was Hard but all of it played off in the end.<break>
+ Now all of you can play the game give feed back an I'll be sure to use them.
+</p>
+<p>You can get the game on <a>itch.io</a> to see the trailler gameplay.</p>
+<h2>Note:<h2>
+ 
 <h2>The versions 1.0, 2.0 and 2.5 are in the orthographic view.</h2>
 
-<p>Note 1.0 and 2.0 has less health than 3.0 and 2.5.</p>
+<p>1.0 and 2.0 has less health than 3.0 and 2.5.</p>
+<p>All versions except 3.0 are for windows only.</p>
