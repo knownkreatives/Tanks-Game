@@ -23,7 +23,7 @@ It's kind of laggy but still playable just remember to lower your volume before 
  it was Hard but all of it played off in the end.<break>
  Now all of you can play the game give feed back an I'll be sure to use them.
 </p>
-<p>You can get the game on <a>itch.io</a> to see the trailler gameplay.</p>
+<p>You can get the game on <a href="https://knownkreatives.itch.io/tanks-v3">itch.io</a> to see the trailler gameplay.</p>
 <h2>Note:<h2>
  
 <h2>The versions 1.0, 2.0 and 2.5 are in the orthographic view.</h2>
